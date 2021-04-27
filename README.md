@@ -1,3 +1,2 @@
 # Flex-Panel-Gallery
-You can add your own photos to the gallery make it your custom gallery
-Check it out:
+# Check it out:https://anthonrodgrs01.github.io/Flex-Panel-Gallery/
